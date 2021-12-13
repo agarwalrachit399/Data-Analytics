@@ -16,3 +16,6 @@ sklearn
 
 2.) Car price prediction: https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes
 ![image](https://user-images.githubusercontent.com/64380584/145400609-86cc4199-0782-4ce6-8f0b-2525acf7850c.png)
+
+3.) Diabetes Prediction : https://www.kaggle.com/mathchi/diabetes-data-set
+![image](https://user-images.githubusercontent.com/64380584/145857928-b6a6987f-926d-44f7-a0a8-28e749296964.png)
